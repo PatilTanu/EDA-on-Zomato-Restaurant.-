@@ -1,8 +1,7 @@
 
-# EDA on CarDekho.com.
+# EDA on Zomato Restaurant. 
 
-This dataset contains information about used cars listed on www.cardekho.com. The columns in the given dataset are as follows: name, year, selling price, km_driven, fuel, seller 
-type, transmission, and Owner.
+This project performs EDA on the Zomato Restaurant dataset in India to gain insights into the industry, using Python libraries and Jupyter notebooks to investigate cuisine popularity, rating variability, and customer review correlations.
 
 ## Download Dataset
 
