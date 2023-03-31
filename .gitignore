@@ -4,6 +4,8 @@ venv/
 # ignore ipynb checkpoints
 **/.ipynb_checkpoints/
 
+# Ignore compiled Python files
+*.pyc
 
-# ignore localdataset.
-**/zomato.csv/
+# Ignore the zomato.csv file
+zomato.csv
